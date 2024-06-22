@@ -1,0 +1,15 @@
+## Interface: 30300
+## Title: Killshot
+## Notes: Killingblow notification for BGs and Arenas.
+## Author: Zwarmapapa (zwarmapapa@hotmail.com)
+## Version: v1.16 (09-10-2010)
+## SavedVariables: KillshotDBv2, savevar, resetonzonechangevar, soundpackvar, ksmsg, soundon, texton, emoteon
+## SavedVariablesPerCharacter: KillshotDBPCv2, maxkillingstreak, totalkillingstreak, killingstreaktimes
+## X-Category: Interface Enhancements
+
+## OptionalDeps: Ace2
+## X-Embeds: Ace2
+
+embeds.xml
+
+Killshot.lua
